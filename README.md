@@ -1,6 +1,12 @@
 # EasyLearn
 This is only for learning purposes. From me to all of you.
 <h1>EasyMock</h1>
+<p>Test the a class in isolation.</p>
+<ul>
+  <li>support return values.</li>
+  <li>support exceptions</li>
+  <li>support creating moks using annotation</li>
+</ul>
 <ul>
   <li>Link1: http://easymock.org/user-guide.html</li>
   <li>Link2: https://www.tutorialspoint.com/easymock/index.htm</li>
