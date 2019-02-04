@@ -1,5 +1,5 @@
 # EasyLearn
-This is only for learn. From me to all of you.
+This is only for learning purposes. From me to all of you.
 <h1>EasyMock</h1>
 <ul>
   <li>Link1: http://easymock.org/user-guide.html</li>
