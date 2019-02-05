@@ -1,6 +1,6 @@
 # EasyLearn
 This is only for learning purposes. From me to all of you.
-Need to work on:
+<p>Need to work on:</p>
   
   <h3>Ruby programming</h1>
   <h3>JSON</h1>
