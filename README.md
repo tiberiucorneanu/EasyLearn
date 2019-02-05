@@ -4,6 +4,7 @@ This is only for learning purposes. From me to all of you.
 <ul>
   <li>Link1: http://easymock.org/user-guide.html</li>
   <li>Link2: https://www.tutorialspoint.com/easymock/index.htm</li>
+  <li>Link3: https://www.baeldung.com/easymock</li>
 </ul>
 <p>Test the a class in isolation.</p>
 <ul>
