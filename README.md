@@ -10,6 +10,7 @@ This is only for learning purposes. From me to all of you.
 <h1>EasyMock</h1>
 <ul>
   <li>Link1: http://easymock.org/user-guide.html</li>
+      <p>introduction to the EasyMock</p>
   <li>Link2: https://www.tutorialspoint.com/easymock/index.htm</li>
   <li>Link3: https://www.baeldung.com/easymock</li>
   <li>Link4: https://www.ibm.com/developerworks/library/j-easymock/index.html </li>
@@ -23,9 +24,12 @@ This is only for learning purposes. From me to all of you.
 <ul>
   <li><b>createMock</b></li>
   <li>support exceptions</li>
-  <li><b>assert</b>(to say that something is certainly true)</li>
+  <li><b>assert</b> (to say that something is certainly true)</li>
   <li><b>verify</b></li>
     <p>EasyMock verify() method is used to make sure that all the stubbed methods are being utilized and there are no unexpected calls. The behavior for unexpected calls changes for nice mock objects where it doesn’t throw any error.</p>
+  
+    <p>verifyAll(); // verify all mocks at once but you need to ad an extension to the class EasyMockSupport</p>
+    <p>If an unexpected method is called on a strict Mock Object, the message of the exception will show the method calls expected at this point followed by the first conflicting one. verify(mock) shows all missing method calls.</p>
 </ul>
 
 <h3>Components</h3>
