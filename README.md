@@ -7,7 +7,7 @@ This is only for learning purposes. From me to all of you.
   <h3>Jenkins</h1>
   <h3>Docker vs kubernetes</h1>
   <h3>Vagrant</h1>
-<h1>EasyMock</h1>(in porgress)
+<h1>EasyMock<p>(in porgress)</p></h1>
 <ul>
   <li>Link1: http://easymock.org/user-guide.html</li>
       <p>introduction to the EasyMock</p>
