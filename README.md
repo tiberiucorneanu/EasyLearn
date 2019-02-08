@@ -23,7 +23,7 @@ This is only for learning purposes. From me to all of you.
 <ul>
   <li><b>createMock</b></li>
   <li>support exceptions</li>
-  <li>support creating moks using annotation</li>
+  <li><b>assert</b>(to say that something is certainly true)</li>
   <li><b>verify</b></li>
     <p>EasyMock verify() method is used to make sure that all the stubbed methods are being utilized and there are no unexpected calls. The behavior for unexpected calls changes for nice mock objects where it doesn’t throw any error.</p>
 </ul>
