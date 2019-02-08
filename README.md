@@ -7,7 +7,7 @@ This is only for learning purposes. From me to all of you.
   <h3>Jenkins</h1>
   <h3>Docker vs kubernetes</h1>
   <h3>Vagrant</h1>
-<h1>EasyMock<p>(in porgress)</p></h1>
+<h1>EasyMock in porgress</h1>
 <ul>
   <li>Link1: http://easymock.org/user-guide.html</li>
       <p>introduction to the EasyMock</p>
@@ -20,6 +20,7 @@ This is only for learning purposes. From me to all of you.
   <p> EasyMock has similar methods for the primitive data types:</p><ul class="ibm-bullet-list"><li><code>EasyMock.anyInt()</code></li><li><code>EasyMock.anyShort()</code></li><li><code>EasyMock.anyByte()</code></li><li><code>EasyMock.anyLong()</code></li><li><code>EasyMock.anyFloat()</code></li><li><code>EasyMock.anyDouble()</code></li><li><code>EasyMock.anyBoolean()</code></li></ul><p>For the numeric types, you can also use <code>EasyMock.lt(x)</code> to accept any
                 value less than <code>x</code>, or <code>EasyMock.gt(x)</code> to accept any value
                 greater than <code>x</code>. </p>
+   <p>Testing an XML parser</p>
   
 </ul>
 <p>Flow of EasyMock framework</p>
