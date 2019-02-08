@@ -16,8 +16,8 @@ This is only for learning purposes. From me to all of you.
       <p>More code exemple for introduction to the EasyMock</p>
  
   <li>Link4: https://www.ibm.com/developerworks/library/j-easymock/index.html </li>
-  <a>present EasyMock on an currency example using interface for ExchangeRate</a>
-  <a>Testing an XML parser</a>
+  <pre>present EasyMock on an currency example using interface for ExchangeRate</pre>
+  <pre>Testing an XML parser</pre>
   
   <p> EasyMock has similar methods for the primitive data types:</p><ul class="ibm-bullet-list"><li><code>EasyMock.anyInt()</code></li><li><code>EasyMock.anyShort()</code></li><li><code>EasyMock.anyByte()</code></li><li><code>EasyMock.anyLong()</code></li><li><code>EasyMock.anyFloat()</code></li><li><code>EasyMock.anyDouble()</code></li><li><code>EasyMock.anyBoolean()</code></li></ul><p>For the numeric types, you can also use <code>EasyMock.lt(x)</code> to accept any
                 value less than <code>x</code>, or <code>EasyMock.gt(x)</code> to accept any value
