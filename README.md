@@ -19,9 +19,9 @@ This is only for learning purposes. From me to all of you.
                 greater than <code>x</code>. </p>
   
 </ul>
-<p>Test the a class in isolation.</p>
+<p>Flow of jsf framework</p>
 <ul>
-  <li>support return values.</li>
+  <li><b>createMock</b></li>
   <li>support exceptions</li>
   <li>support creating moks using annotation</li>
   <li><b>verify</b></li>
