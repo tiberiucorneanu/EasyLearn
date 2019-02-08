@@ -29,7 +29,6 @@ This is only for learning purposes. From me to all of you.
   <li><b>assert</b> (to say that something is certainly true)</li>
   <li><b>verify</b></li>
     <p>EasyMock verify() method is used to make sure that all the stubbed methods are being utilized and there are no unexpected calls. The behavior for unexpected calls changes for nice mock objects where it doesn’t throw any error.</p>
-  
     <p>verifyAll(); // verify all mocks at once but you need to ad an extension to the class EasyMockSupport</p>
     <p>If an unexpected method is called on a strict Mock Object, the message of the exception will show the method calls expected at this point followed by the first conflicting one. verify(mock) shows all missing method calls.</p>
 </ul>
