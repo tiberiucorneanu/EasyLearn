@@ -22,7 +22,7 @@ This is only for learning purposes. From me to all of you.
                 greater than <code>x</code>. </p>
   
 </ul>
-<p>Flow of jsf framework</p>
+<p>Flow of EasyMock framework</p>
 <ul>
   <li><b>createMock</b></li>
   <li>support exceptions</li>
@@ -33,10 +33,3 @@ This is only for learning purposes. From me to all of you.
     <p>If an unexpected method is called on a strict Mock Object, the message of the exception will show the method calls expected at this point followed by the first conflicting one. verify(mock) shows all missing method calls.</p>
 </ul>
 
-<h3>Components</h3>
-  <p>1. Interface who have metods e.g. add(int a, int b), sum(int a, int b), div(int a, int b) etc.</p>
-  <p>2. Class who make a coll to the Interface e.g. pubic addInterface(A a){
-                                                          a.add(10, 20);
-                                                    }
-  </p>
-  <p>3. Test class</p>
