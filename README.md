@@ -5,6 +5,8 @@ This is only for learning purposes. From me to all of you.
   <h3>Ruby programming</h1>
   <h3>JSON</h1>
   <h3>Jenkins</h1>
+  <p>Connect it with vagrant https://stackoverflow.com/questions/6941547/how-to-combine-vagrant-with-jenkins-for-the-perfect-continuous-integration-envir</p>
+  <p>Continuously integration, delivery, deploiment: https://www.atlassian.com/ro/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment</p>
   <h3>Docker vs kubernetes</h1>
   <h3>Vagrant</h1>
 <h1>EasyMock in porgress</h1>
