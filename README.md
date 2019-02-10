@@ -11,6 +11,7 @@ This is only for learning purposes. From me to all of you.
   <h3>Vagrant</h1>
   <p>Vagrant.json  https://blog.scottlowe.org/2016/01/18/multi-machine-vagrant-json/</p>
   <p>tutorial https://www.youtube.com/watch?v=sjV4JdAw-Vs</p>
+  <p>part 2 https://www.youtube.com/watch?v=X8iC5Q5lKLg< /p>
 <h1>EasyMock in porgress</h1>
 <ul>
   <li>Link1: http://easymock.org/user-guide.html</li>
