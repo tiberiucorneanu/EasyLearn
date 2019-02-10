@@ -9,6 +9,8 @@ This is only for learning purposes. From me to all of you.
   <p>Continuously integration, delivery, deploiment: https://www.atlassian.com/ro/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment</p>
   <h3>Docker vs kubernetes</h1>
   <h3>Vagrant</h1>
+  <p>Vagrant.json  https://blog.scottlowe.org/2016/01/18/multi-machine-vagrant-json/</p>
+  <p>tutorial https://www.youtube.com/watch?v=sjV4JdAw-Vs</p>
 <h1>EasyMock in porgress</h1>
 <ul>
   <li>Link1: http://easymock.org/user-guide.html</li>
