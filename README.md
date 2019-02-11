@@ -1,5 +1,7 @@
 # EasyLearn
 This is only for learning purposes. From me to all of you.
+
+<p href="https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master">If you search for security stuff (CTF-centered) please check the repository made by Iosif   </p>
 <p>Need to work on:</p>
   
   <h3>Ruby programming</h1>
