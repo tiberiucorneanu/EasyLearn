@@ -1,4 +1,17 @@
 # EasyLearn
+<html>
+ <head>
+<style>
+.cities {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+} 
+</style>
+</head>
+ 
+<body>
 This is only for learning purposes. From me to all of you.
 <h2>AboutMe</h2>
 <p>
@@ -21,7 +34,7 @@ This is only for learning purposes. From me to all of you.
     <li><p><a href="https://github.com/tiberiucorneanu/java3"> Java 3</a> Introduction to Java WebPage</p></li>
   </ul>
  </p>
-<p style="color:red;">Need to work on:</p>
+<p class="cities">Need to work on:</p>
   
   <h3>Ruby programming</h1>
   <h3>JSON</h1>
@@ -62,3 +75,5 @@ This is only for learning purposes. From me to all of you.
     <p>If an unexpected method is called on a strict Mock Object, the message of the exception will show the method calls expected at this point followed by the first conflicting one. verify(mock) shows all missing method calls.</p>
 </ul>
 
+</body>
+</html>
