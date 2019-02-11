@@ -5,7 +5,7 @@ This is only for learning purposes. From me to all of you.
   If you search for security stuff (CTF-centered) please check the repository made by Iosif   
 </a>
 
-<h1>Java<h2>
+<h1>Java</h1>
  <p>
   <ul>
     <li><p><a href="https://github.com/tiberiucorneanu/java1"> Java 1</a> Introduction to Java</p></li>
