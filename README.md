@@ -3,7 +3,7 @@ This is only for learning purposes. From me to all of you.
 
 <h2>CTF-related collection of information</h2>
  <p>If you search for 
-  <a href="https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master"> security stuff (CTF-centered)</a>please check   the repository made by Iosif Andrei.
+  <a href="https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master"> security stuff (CTF-centered) </a>please check   the repository made by Iosif Andrei.
  </p>
 
 <h2>Java</h2>
