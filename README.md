@@ -1,11 +1,12 @@
 # EasyLearn
 This is only for learning purposes. From me to all of you.
 
-<a href="https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master">
-  If you search for security stuff (CTF-centered) please check the repository made by Iosif   
-</a>
+<h2>CTF-related collection of information</h2>
+ <p>If you search for 
+  <a href="https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master"> security stuff (CTF-centered)</a>please check   the repository made by Iosif Andrei.
+ </p>
 
-<h3>Java</h3>
+<h2>Java</h2>
  <p>
   <ul>
     <li><p><a href="https://github.com/tiberiucorneanu/java1"> Java 1</a> Introduction to Java</p></li>
