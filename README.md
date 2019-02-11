@@ -5,11 +5,11 @@ This is only for learning purposes. From me to all of you.
   If you search for security stuff (CTF-centered) please check the repository made by Iosif   
 </a>
 
-<h1>Java</h1>
+<h3>Java</h3>
  <p>
   <ul>
     <li><p><a href="https://github.com/tiberiucorneanu/java1"> Java 1</a> Introduction to Java</p></li>
-    <li><p><a href="https://github.com/tiberiucorneanu/java2"> Java 2</a> Introduction to Java EE </p>(enterprise edition)</a></li>
+    <li><p><a href="https://github.com/tiberiucorneanu/java2"> Java 2</a> Introduction to Java EE (enterprise edition)</p></li>
     <li><p><a href="https://github.com/tiberiucorneanu/java3"> Java 3</a> Introduction to Java WebPage</p></li>
   </ul>
  </p>
