@@ -6,11 +6,13 @@ This is only for learning purposes. From me to all of you.
 </a>
 
 <h1>Java<h2>
+ <p>
   <ul>
-    <li><a href="https://github.com/tiberiucorneanu/java1"> Java 1 Introduction to Java</a></li>
-    <li><a href="https://github.com/tiberiucorneanu/java2"> Java 2 Introduction to Java EE (enterprise edition)</a></li>
+    <li><p><a href="https://github.com/tiberiucorneanu/java1"> Java 1</a> Introduction to Java</p></li>
+    <li><p><a href="https://github.com/tiberiucorneanu/java2"> Java 2</a> Introduction to Java EE </p>(enterprise edition)</a></li>
     <li><p><a href="https://github.com/tiberiucorneanu/java3"> Java 3</a> Introduction to Java WebPage</p></li>
   </ul>
+ </p>
 <p>Need to work on:</p>
   
   <h3>Ruby programming</h1>
