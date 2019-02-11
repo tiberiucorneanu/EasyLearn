@@ -21,7 +21,7 @@ This is only for learning purposes. From me to all of you.
     <li><p><a href="https://github.com/tiberiucorneanu/java3"> Java 3</a> Introduction to Java WebPage</p></li>
   </ul>
  </p>
-<p class="w3-text-deep-orange">Need to work on:</p>
+<p style="color:red;">Need to work on:</p>
   
   <h3>Ruby programming</h1>
   <h3>JSON</h1>
