@@ -1,11 +1,11 @@
 # EasyLearn
 This is only for learning purposes. From me to all of you.
-<p><!-AboutMe-->
+<p></* AboutMe
  <ul>
   <li><a href="https://www.instagram.com/corneanutiberiu/">Instagram</a></li>
   <li><a href="https://www.linkedin.com/in/tiberiu-cristian-corneanu-2aaa38179/">LinkedIn</a></li>
  </ul>
-</p>
+*/</p>
 
 <h2>CTF-related collection of information</h2>
  <p>If you search for 
