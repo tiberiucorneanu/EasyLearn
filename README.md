@@ -1,7 +1,16 @@
 # EasyLearn
 This is only for learning purposes. From me to all of you.
 
-<a href="https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master">If you search for security stuff (CTF-centered) please check the repository made by Iosif   </a>
+<a href="https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master">
+  If you search for security stuff (CTF-centered) please check the repository made by Iosif   
+</a>
+
+<h1>Java<h2>
+  <ul>
+    <li><a href="https://github.com/tiberiucorneanu/java1"> Java 1 Introduction to Java</a></li>
+    <li><a href="https://github.com/tiberiucorneanu/java2"> Java 2 Introduction to Java EE (enterprise edition)</a></li>
+    <li><p><a href="https://github.com/tiberiucorneanu/java3"> Java 3</a> Introduction to Java WebPage</p></li>
+  </ul>
 <p>Need to work on:</p>
   
   <h3>Ruby programming</h1>
