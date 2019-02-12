@@ -5,7 +5,7 @@ This is only for learning purposes. From me to all of you.
 <p>
  <ul>
   <li><a href="https://www.linkedin.com/in/tiberiu-cristian-corneanu-2aaa38179/">LinkedIn </a>(work time)</li>
-  <li><a href="https://www.instagram.com/corneanutiberiu/">Instagram</a>(party time)</li>
+  <li><a href="https://www.instagram.com/corneanutiberiu/">Instagram</a> (party time)</li>
  </ul>
 </p>
 
