@@ -13,7 +13,13 @@ This is only for learning purposes. From me to all of you.
  <p>If you search for 
   <a href="https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master"> security stuff (CTF-centered) </a>please check   the repository made by Iosif Andrei.
  </p>
-
+<h2>Vagrant</h2>
+ <p>
+  <ul>
+    <li><p><a href="https://github.com/tiberiucorneanu/vagrant"> Vagrant</a> introduction</p></li>
+    
+  </ul>
+ </p>
 <h2>Java</h2>
  <p>
   <ul>
@@ -41,10 +47,9 @@ This is only for learning purposes. From me to all of you.
   <p>Connect it with vagrant https://stackoverflow.com/questions/6941547/how-to-combine-vagrant-with-jenkins-for-the-perfect-continuous-integration-envir</p>
   <p>Continuously integration, delivery, deploiment: https://www.atlassian.com/ro/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment</p>
   <h3>Docker vs kubernetes</h1>
-  <h3>Vagrant</h1>
-  <p>Vagrant.json  https://blog.scottlowe.org/2016/01/18/multi-machine-vagrant-json/</p>
-  <p>tutorial https://www.youtube.com/watch?v=sjV4JdAw-Vs</p>
-  <p>part 2 https://www.youtube.com/watch?v=X8iC5Q5lKLg< /p>
+ 
+  
+  
 <h1>EasyMock in porgress</h1>
 <ul>
   <li>Link1: http://easymock.org/user-guide.html</li>
