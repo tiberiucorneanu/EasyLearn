@@ -32,7 +32,7 @@ This is only for learning purposes. From me to all of you.
  <h2>What is + name ?</h2>
  <p><a href="https://www.youtube.com/watch?v=j442WG8YzM4">HashMap</a> in java</p>
  <p><a href="https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1">In-memory database</a></p>
- <p>.</p>
+ <p><a href="http://dbunit.sourceforge.net">DBUnit</a>extension of JUnit. an way to avoid problems that can occur when the test case corrupts the DB. DBUnit expo and impo DB to and from XML dates. Can help to verify data from DB = expected set of values</p>
   <p>.</p>
   <p>.</p>
   <p>.</p>
