@@ -31,6 +31,11 @@ This is only for learning purposes. From me to all of you.
  
  <h2>What is + name ?</h2>
  <p><a href="https://www.youtube.com/watch?v=j442WG8YzM4">HashMap</a> in java</p>
+ <p>
+  <b>Unit tests</b> should be testing code without any outside dependencies. These dependencies are mocked using a framework like, for   example, JMock.
+  <br>
+     Integration tests are important too but the major drawback of them is that they take a long time to run. You can run thousands of true unit tests in a couple of seconds, but it's not the same with integration tests.
+ </p>
  <p><a href="https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1">In-memory database</a></p>
  <p><a href="http://dbunit.sourceforge.net">DBUnit</a>extension of JUnit. an way to avoid problems that can occur when the test case corrupts the DB. DBUnit expo and impo DB to and from XML dates. Can help to verify data from DB = expected set of values</p>
  
@@ -41,10 +46,11 @@ This is only for learning purposes. From me to all of you.
   <p><a href="https://dzone.com/articles/testing-databases-junit-and-0">Testing Databases with JUnit and Hibernate Part 2</a>The Mother of All Things</p>
   <p><a href="https://dzone.com/articles/testing-databases-junit-and-1">Testing Databases with JUnit and Hibernate Part 3: </a>Cleaning up and Further Ideas</p>
   <p><a href=""></a></p>
+  
+ <br>.<br>.<br>.<br>
  
  
- 
-<p >Need to work on:</p>
+<h1>Need to work on:</h1>
   
   <h3>Ruby programming</h1>
   <h3>JSON</h1>
