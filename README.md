@@ -117,5 +117,6 @@ In addition is also an implementation of the JPA (Java Persistence API)<br>
  <li>Finally, the connection is closed</li>
 </ul>
 <h3><a href="https://dzone.com/articles/15-reasons-to-choose-hibernate-over-jdbc"> Hibernate vs. JDBC</a></h3>
+ <b> Impedance Mismatch </b> hibernate solved this problem when relation DB are connected by app weitten in OOP
 <h3><a href="https://www.java4s.com/hibernate/main-advantage-and-disadvantages-of-hibernates/">Disadvantages of Hibernates</a></h3>
 </p>
