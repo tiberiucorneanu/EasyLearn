@@ -96,5 +96,26 @@ This is only for learning purposes. From me to all of you.
 <b>Hibernate ORM( object/relational mapping )</b><br>
   -concerned with data persistance as it applies to relational databases( via JDBC). As simple it can be convert classes to tables and objects to rows, and vice versa;<br>
   -persistance = some of our objects to live beyond JVM in order to be availabel later;
-In addition is also an implementation of the JPA (Java Persistence API) 
+In addition is also an implementation of the JPA (Java Persistence API)<br>
+<ul><b>JDBC (Java Databases Connectivity) </b> application interface that enables app to access the DB.<b>workflow:</b>
+ <li>Open the DB;</li>
+ <li>Send SQL queries to DB using JDBC driver;</li>
+ <li>JDBC driver connects to the database;</li>
+ <li>Execute the queries to get the result set;</li>
+ <li>Send the data to the application via the driver manager;</li>
+ <li>When results are returned, it processes the data;</li>
+ <li>Finally, the connection is closed.</li>
+</ul>
+
+<ul><b>Hibernate workflow:</b>
+ <li>Connects with the DB itself using <b>bHQL</b> (Hibernate Query Language) to execut queries, them maps the rsults to Java objects;</li>
+ <li>Send SQL queries to DB using JDBC driver</li>
+ <li>JDBC driver connects to the database</li>
+ <li>Execute the queries to get the result set</li>
+ <li>Send the data to the application via the driver manager</li>
+ <li>When results are returned, it processes the data</li>
+ <li>Finally, the connection is closed</li>
+</ul>
+<h3><a href="https://dzone.com/articles/15-reasons-to-choose-hibernate-over-jdbc"> Hibernate vs. JDBC</a></h3>
+<h3><a href="https://www.java4s.com/hibernate/main-advantage-and-disadvantages-of-hibernates/">Disadvantages of Hibernates</a></h3>
 </p>
