@@ -117,6 +117,16 @@ In addition is also an implementation of the JPA (Java Persistence API)<br>
  <li>Finally, the connection is closed</li>
 </ul>
 <h3><a href="https://dzone.com/articles/15-reasons-to-choose-hibernate-over-jdbc"> Hibernate vs. JDBC</a></h3>
- <b> Impedance Mismatch </b> hibernate solved this problem when relation DB are connected by app weitten in OOP
+ <b> Impedance Mismatch </b> hibernate solved this problem when relation DB are connected by app weitten in OOP; <br>
+ <b> Object Mapping </b> while in JDBC you need to write code to map the object model's data representation to a relational model and its cerresponding schem, hibernate maps Java classes to database tables using XML or annotations; <br>
+ <b> Hibernate's HQL </b> provides full support for polymorphic queeries, understands inheritance and association; <br>
+ <b> Database Independent </b> being easy to migrate to a new database; <br>
+ <b> Minimize code changes </b> when we add a new column to a database table; <br>
+ <b> Reduce repeat code </b>; <br>
+ <b> Lazy Loading </b> by fetching the documents where you want using hibernate initialize method;  <br>
+ <b> Avoiding Try-Catch Blocks </b> beacuse Hibernate handles this using unchecked exceptions; <br>
+ <b> Transaction Management </b> performed under one task. In JDBC if transaction is a success you need to commit or rollback. In Hibernate you don' need to do this beacuse is omplicitly provided; <br>
+ <b> Associations </b> between tables is easyer uning Hibernate; <br>
+ <b> Versioning </b> if two users use the same datas from DB and afther the first one update DB the second one wil have an error; <br>
 <h3><a href="https://www.java4s.com/hibernate/main-advantage-and-disadvantages-of-hibernates/">Disadvantages of Hibernates</a></h3>
 </p>
