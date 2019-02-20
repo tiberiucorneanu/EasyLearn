@@ -31,16 +31,25 @@ This is only for learning purposes. From me to all of you.
  
  <h2>What is + name ?</h2>
  <p><a href="https://www.youtube.com/watch?v=j442WG8YzM4">HashMap</a> in java</p>
+ <p><b>Unit tests</b> should be testing code without any outside dependencies. These dependencies are mocked using a framework like, for   example, JMock.<br>
+ <b>Integration tests</b> are important too but the major drawback of them is that they take a long time to run. You can run thousands of true unit tests in a couple of seconds, but it's not the same with integration tests.</p>
  <p><a href="https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1">In-memory database</a></p>
- <p><a href="http://dbunit.sourceforge.net">DBUnit</a> a extension to JUnit. avoid the myriad of problems that can occur when one test case corrupts the database and causes subsequent tests to fail or exacerbate the damage. export and import DB to and from XML datasets. can verify that your database data match an expected set of values.</p>
- <p>.</p>
-  <p>.</p>
-  <p>.</p>
-  <p>.</p>
+ <p><a href="https://gist.github.com/prakashdayal/4699481">Hibernate mapping and Unit testing</a> code example</p>
+ <p><a href="http://dbunit.sourceforge.net">DBUnit </a>extension of JUnit. an way to avoid problems that can occur when the test case corrupts the DB. DBUnit expo and impo DB to and from XML dates. Can help to verify data from DB = expected set of values</p>
+ <p><a href ="https://howtodoinjava.com/best-practices/how-you-should-unit-test-dao-layer/">How to Unit test DAO layer </a>To testDAO we need access to DB and could use in-memory database( clean the database tables before each test)</p>
+ <p><a href="https://vladmihalcea.com/the-minimal-configuration-for-testing-hibernate/">The minimal configuration for testing Hibernate </a>To test Hibernate you can simply rely on Hibernate flexible configuration options</p>
+ 
+ <br>
+ <p></p>
+ <p><a href="https://dzone.com/articles/testing-databases-junit-and">Testing Databases with JUnit and Hibernate</a> Part 1: One to Rule them</p>
+  <p><a href="https://dzone.com/articles/testing-databases-junit-and-0">Testing Databases with JUnit and Hibernate Part 2</a>The Mother of All Things</p>
+  <p><a href="https://dzone.com/articles/testing-databases-junit-and-1">Testing Databases with JUnit and Hibernate Part 3: </a>Cleaning up and Further Ideas</p>
+  <p><a href=""></a></p>
+  
+ <br>.<br>.<br>.<br>
  
  
- 
-<p >Need to work on:</p>
+<h1>Need to work on:</h1>
   
   <h3>Ruby programming</h1>
   <h3>JSON</h1>
@@ -80,3 +89,12 @@ This is only for learning purposes. From me to all of you.
     <p>If an unexpected method is called on a strict Mock Object, the message of the exception will show the method calls expected at this point followed by the first conflicting one. verify(mock) shows all missing method calls.</p>
 </ul>
 
+
+
+<h1>Hibernate</h1>
+<p>
+<b>Hibernate ORM( object/relational mapping )</b><br>
+  -concerned with data persistance as it applies to relational databases( via JDBC). As simple it can be convert classes to tables and objects to rows, and vice versa;<br>
+  -persistance = some of our objects to live beyond JVM in order to be availabel later;
+In addition is also an implementation of the JPA (Java Persistence API) 
+</p>
