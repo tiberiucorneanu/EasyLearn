@@ -116,7 +116,7 @@ In addition is also an implementation of the JPA (Java Persistence API)<br>
  <li>When results are returned, it processes the data</li>
  <li>Finally, the connection is closed</li>
 </ul>
-<h3><a href="https://dzone.com/articles/15-reasons-to-choose-hibernate-over-jdbc"> Hibernate vs. JDBC</a></h3>
+<h3><a href="https://dzone.com/articles/15-reasons-to-choose-hibernate-over-jdbc"> Hibernate vs. JDBC</a> (<a href="https://www.devteam.space/blog/hibernate-vs-jdbc-which-to-choose/">another opinion</a>)</h3>
  <b> Impedance Mismatch </b> hibernate solved this problem when relation DB are connected by app weitten in OOP; <br>
  <b> Object Mapping </b> while in JDBC you need to write code to map the object model's data representation to a relational model and its cerresponding schem, hibernate maps Java classes to database tables using XML or annotations; <br>
  <b> Hibernate's HQL </b> provides full support for polymorphic queeries, understands inheritance and association; <br>
@@ -128,5 +128,15 @@ In addition is also an implementation of the JPA (Java Persistence API)<br>
  <b> Transaction Management </b> performed under one task. In JDBC if transaction is a success you need to commit or rollback. In Hibernate you don' need to do this beacuse is omplicitly provided; <br>
  <b> Associations </b> between tables is easyer uning Hibernate; <br>
  <b> Versioning </b> if two users use the same datas from DB and afther the first one update DB the second one wil have an error; <br>
+
 <h3><a href="https://www.java4s.com/hibernate/main-advantage-and-disadvantages-of-hibernates/">Disadvantages of Hibernates</a></h3>
+ <b>Lots of API to learn:</b> A lot of effort is required to learn Hibernate. So, not very easy to learn hibernate easily. <br>
+ <b>Debugging:</b> Sometimes debugging and performance tuning becomes difficult. <br>
+ <b>Slower than JDBC:</b> Hibernate is slower than pure JDBC as it is generating lots of SQL statements in runtime. <br>
+ <b>Not suitable for Batch processing:</b> It advisable to use pure JDBC for batch processing. <br>
+ <b>Not suitable for Small projects:</b> For small project having few tables it is useless to work with hibernate. <br>
+ <b>Does not allow multiple inserts:</b> Hibernate does not allow some type of queries which are supported by JDBC. For example It does
+   not allow to insert multiple objects (persistent data) to same table using single query. Developer
+   has to write separate query to insert each object. <br>
+ <b>Generates complex quires with many joins :</b> For complex data, mapping from Object-to-tables and vise versa reduces performance      and increases time of conversion. (query conversion) <br>
 </p>
