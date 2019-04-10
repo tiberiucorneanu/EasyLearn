@@ -30,7 +30,7 @@ This is only for learning purposes. From me to all of you.
  </p>
  
  <h2>What is + name ?</h2>
- <p><a href="https://drive.google.com/file/d/0B-PizWTHf9T_SldwcVI4NXctRWM/view">Run cmd </a> from java project and youtube<a href="https://www.youtube.com/watch?time_continue=41&v=7-VAepy_r-8"></a></p> 
+ <p><a href="https://drive.google.com/file/d/0B-PizWTHf9T_SldwcVI4NXctRWM/view">Run cmd </a> from java project and <a href="https://www.youtube.com/watch?time_continue=41&v=7-VAepy_r-8">youtube</a></p> 
  <p><a href="https://www.youtube.com/watch?v=j442WG8YzM4">HashMap</a> in java</p>
  <p><b>Unit tests</b> should be testing code without any outside dependencies. These dependencies are mocked using a framework like, for   example, JMock.<br>
  <b>Integration tests</b> are important too but the major drawback of them is that they take a long time to run. You can run thousands of true unit tests in a couple of seconds, but it's not the same with integration tests.</p>
