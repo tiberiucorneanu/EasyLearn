@@ -4,11 +4,8 @@ This is only for learning purposes. From me to all of you.
 ### AboutMe
 * [LinkedIn](https://www.linkedin.com/in/tiberiu-cristian-corneanu-2aaa38179/) (work time)  
 * [Instagram](https://www.instagram.com/corneanutiberiu/) (party time)
-
-
-<h2>CTF-related collection of information</h2>
- <p>If you search for 
-  <a href="https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master"> security stuff (CTF-centered) </a>please check   the repository made by Iosif Andrei.
+### CTF-related collection of information
+If you search for [security stuff (CTF-centered)](https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master) please check   the repository made by Iosif Andrei.
  </p>
 <h2>Vagrant</h2>
  <p>
