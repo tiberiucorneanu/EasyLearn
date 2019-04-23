@@ -38,6 +38,7 @@ This is only for learning purposes. From me to all of you.
  Further, Java also have specification like JPA(Java Persistence API) and like mentioned above there is Hibernate which is an implementation of JPA</p>
  <p><a href="https://www.vogella.com/tutorials/REST/article.html">Jersey </a> REST with Java (JAX-RS) using Jersey</p>
  <p><a href="https://github.com/resteasy/resteasy-examples">Jax-RS</a> exemples of cod from the book "Restful Java With Jax-Rs (2009, Oreilly)"</p>
+ <p><a href="https://www.vogella.com/tutorials/EclipseWTP/article.html#installation-of-wtp">Eclipse Web Tool Platform (WTP)<a> Java web development with Eclipse WTP - Tutorial<p>
  <p><a href="https://static.javadoc.io/org.mockito/mockito-core/2.27.0/org/mockito/Mockito.html">Mockito </a>The Mockito library enables mock creation, verification and stubbing.</p>
  <p><a href="https://drive.google.com/file/d/0B-PizWTHf9T_SldwcVI4NXctRWM/view">Run cmd </a> from java project and <a href="https://www.youtube.com/watch?time_continue=41&v=7-VAepy_r-8">youtube</a></p> 
  <p><a href="https://www.youtube.com/watch?v=j442WG8YzM4">HashMap</a> in java</p>
