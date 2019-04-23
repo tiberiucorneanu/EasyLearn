@@ -1,13 +1,10 @@
 # EasyLearn
 ### How to make your [markdown](https://guides.github.com/features/mastering-markdown/)
 This is only for learning purposes. From me to all of you.
-<h2>AboutMe</h2>
-<p>
- <ul>
-  <li><a href="https://www.linkedin.com/in/tiberiu-cristian-corneanu-2aaa38179/">LinkedIn </a>(work time)</li>
-  <li><a href="https://www.instagram.com/corneanutiberiu/">Instagram</a> (party time)</li>
- </ul>
-</p>
+### AboutMe
+* (LinkedIn)[https://www.linkedin.com/in/tiberiu-cristian-corneanu-2aaa38179/] (work time)  
+* (Instagram)[https://www.instagram.com/corneanutiberiu/] (party time)
+
 
 <h2>CTF-related collection of information</h2>
  <p>If you search for 
