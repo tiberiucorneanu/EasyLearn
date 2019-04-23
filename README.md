@@ -6,30 +6,21 @@ This is only for learning purposes. From me to all of you.
 * [Instagram](https://www.instagram.com/corneanutiberiu/) (party time)
 ### CTF-related collection of information
 If you search for [security stuff (CTF-centered)](https://bitbucket.org/theiosif/learning-resources/src/91d016b31372?at=master) please check   the repository made by Iosif Andrei.
- </p>
-<h2>Vagrant</h2>
- <p>
-  <ul>
-    <li><p><a href="https://github.com/tiberiucorneanu/vagrant"> Vagrant</a> introduction</p></li>
-    
-  </ul>
- </p>
-<h2>Java</h2>
- <p>
-  <ul>
-    <li><p><a href="https://github.com/tiberiucorneanu/java1"> Java 1</a> Introduction to Java</p></li>
-    <li><p><a href="https://github.com/tiberiucorneanu/java2"> Java 2</a> Introduction to Java EE (enterprise edition)</p></li>
-    <li><p><a href="https://github.com/tiberiucorneanu/java3"> Java 3</a> Introduction to Java WebPage</p></li>
-  </ul>
- </p>
- 
- <h2>What is + name ?</h2>
- <p><a href="">JAX-RS vs Jersey</a> JAX-RS is an specification and Jersey is a JAX-RS implementation. 
- This can be understood relating it to OOPS principles JAX-RS is an Interface and Jersey is a class implementing that interface. 
- These Specification creates a STANDARD for developing and using the web services.
- There are other JAX-RS implementations too like wink, RestEasy.
- JAX-RS is a specification which specifies how can we implement the web services,that what would be input type, input format, output type, its format, its configuration etc.Its Just a type declaration and its implementation are these libraries, Jersey, wink RestEasy etc.
- Further, Java also have specification like JPA(Java Persistence API) and like mentioned above there is Hibernate which is an implementation of JPA</p>
+### Vagrant 
+* [Vagrant](https://github.com/tiberiucorneanu/vagrant) introduction
+### Java
+* [Java 1](https://github.com/tiberiucorneanu/java1) Introduction to Java
+* [Java 2](https://github.com/tiberiucorneanu/java2) Introduction to Java EE (enterprise edition)
+* [Java 3](https://github.com/tiberiucorneanu/java3) Introduction to Java WebPage
+### What is + name ?
+ * [JAX-RS vs Jersey](https://stackoverflow.com/questions/17888757/what-difference-between-jersey-vs-jax-rs)   
+  ** JAX-RS is an specification and Jersey is a JAX-RS implementation.   
+  ** This can be understood relating it to OOPS principles JAX-RS is an Interface and Jersey is a class implementing that interface.   
+  ** These Specification creates a STANDARD for developing and using the web services.  
+  ** There are other JAX-RS implementations too like wink, RestEasy.  
+  ** JAX-RS is a specification which specifies how can we implement the web services,that what would be input type, input format, output type, its format, its configuration etc.Its Just a type declaration and its implementation are these libraries, Jersey, wink RestEasy etc.   
+  ** Further, Java also have specification like JPA(Java Persistence API) and like mentioned above there is Hibernate which is an implementation of JPA
+  
  <p><a href="https://www.vogella.com/tutorials/REST/article.html">Jersey </a> REST with Java (JAX-RS) using Jersey</p>
  <p><a href="https://github.com/resteasy/resteasy-examples">Jax-RS</a> exemples of cod from the book "Restful Java With Jax-Rs (2009, Oreilly)"</p>
  <p><a href="https://www.vogella.com/tutorials/EclipseWTP/article.html#installation-of-wtp">Eclipse Web Tool Platform (WTP)<a> Java web development with Eclipse WTP - Tutorial<p>
