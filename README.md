@@ -2,8 +2,8 @@
 ### How to make your [markdown](https://guides.github.com/features/mastering-markdown/)
 This is only for learning purposes. From me to all of you.
 ### AboutMe
-* (LinkedIn)[https://www.linkedin.com/in/tiberiu-cristian-corneanu-2aaa38179/] (work time)  
-* (Instagram)[https://www.instagram.com/corneanutiberiu/] (party time)
+* [LinkedIn](https://www.linkedin.com/in/tiberiu-cristian-corneanu-2aaa38179/) (work time)  
+* [Instagram](https://www.instagram.com/corneanutiberiu/) (party time)
 
 
 <h2>CTF-related collection of information</h2>
