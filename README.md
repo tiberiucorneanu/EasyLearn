@@ -30,6 +30,12 @@ This is only for learning purposes. From me to all of you.
  </p>
  
  <h2>What is + name ?</h2>
+ <p><a href="">JAX-RS vs Jersey</a> JAX-RS is an specification and Jersey is a JAX-RS implementation. 
+ This can be understood relating it to OOPS principles JAX-RS is an Interface and Jersey is a class implementing that interface. 
+ These Specification creates a STANDARD for developing and using the web services.
+ There are other JAX-RS implementations too like wink, RestEasy.
+ JAX-RS is a specification which specifies how can we implement the web services,that what would be input type, input format, output type, its format, its configuration etc.Its Just a type declaration and its implementation are these libraries, Jersey, wink RestEasy etc.
+ Further, Java also have specification like JPA(Java Persistence API) and like mentioned above there is Hibernate which is an implementation of JPA</p>
  <p><a href="https://www.vogella.com/tutorials/REST/article.html">Jersey </a> REST with Java (JAX-RS) using Jersey</p>
  <p><a href="https://github.com/resteasy/resteasy-examples">Jax-RS</a> exemples of cod from the book "Restful Java With Jax-Rs (2009, Oreilly)"</p>
  <p><a href="https://static.javadoc.io/org.mockito/mockito-core/2.27.0/org/mockito/Mockito.html">Mockito </a>The Mockito library enables mock creation, verification and stubbing.</p>
