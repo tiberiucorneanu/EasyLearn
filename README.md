@@ -15,20 +15,20 @@ If you search for [security stuff (CTF-centered)](https://bitbucket.org/theiosif
 ### What is + name ?
  * [Sprring Test](https://spring.io/guides/gs/testing-web/) Testing the Web Layer REST API. This guide walks you through the process of creating a Spring application.  
  * [JAX-RS vs Jersey](https://stackoverflow.com/questions/17888757/what-difference-between-jersey-vs-jax-rs)   
-  ** JAX-RS is an specification and Jersey is a JAX-RS implementation.   
-  ** This can be understood relating it to OOPS principles JAX-RS is an Interface and Jersey is a class implementing that interface.   
-  ** These Specification creates a STANDARD for developing and using the web services.  
-  ** There are other JAX-RS implementations too like wink, RestEasy.  
-  ** JAX-RS is a specification which specifies how can we implement the web services,that what would be input type, input format, output type, its format, its configuration etc.Its Just a type declaration and its implementation are these libraries, Jersey, wink RestEasy etc.   
-  ** Further, Java also have specification like JPA(Java Persistence API) and like mentioned above there is Hibernate which is an implementation of JPA
+   * JAX-RS is an specification and Jersey is a JAX-RS implementation.   
+   * This can be understood relating it to OOPS principles JAX-RS is an Interface and Jersey is a class implementing that interface.   
+   * These Specification creates a STANDARD for developing and using the web services.  
+   * There are other JAX-RS implementations too like wink, RestEasy.  
+   * JAX-RS is a specification which specifies how can we implement the web services,that what would be input type, input format, output type, its format, its configuration etc.Its Just a type declaration and its implementation are these libraries, Jersey, wink RestEasy etc.   
+   * Further, Java also have specification like JPA(Java Persistence API) and like mentioned above there is Hibernate which is an implementation of JPA
  * [Jersey](https://www.vogella.com/tutorials/REST/article.html) REST with Java (JAX-RS) using Jersey  
  * [Jax-RS](https://github.com/resteasy/resteasy-examples) exemples of cod from the book "Restful Java With Jax-Rs (2009, Oreilly)"  
  * [Eclipse Web Tool Platform (WTP)](https://www.vogella.com/tutorials/EclipseWTP/article.html#installation-of-wtp) Java web development with Eclipse WTP - Tutorial  
  * [Mockito](https://static.javadoc.io/org.mockito/mockito-core/2.27.0/org/mockito/Mockito.html) The Mockito library enables mock creation, verification and stubbing.  
  * [Run cmd](https://drive.google.com/file/d/0B-PizWTHf9T_SldwcVI4NXctRWM/view) from java project and [youtube](https://www.youtube.com/watch?time_continue=41&v=7-VAepy_r-8)   
 * [HashMap](https://www.youtube.com/watch?v=j442WG8YzM4) in java
- ** **Unit tests** should be testing code without any outside dependencies. These dependencies are mocked using a framework like, for   example, JMock.  
- ** **Integration tests** are important too but the major drawback of them is that they take a long time to run. You can run thousands of true unit tests in a couple of seconds, but it's not the same with integration tests.
+  * **Unit tests** should be testing code without any outside dependencies. These dependencies are mocked using a framework like, for   example, JMock.  
+  * **Integration tests** are important too but the major drawback of them is that they take a long time to run. You can run thousands of true unit tests in a couple of seconds, but it's not the same with integration tests.
  * [In-memory database](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1) 
  * [Hibernate mapping and Unit testing](https://gist.github.com/prakashdayal/4699481) code example  
  * [DBUnit](http://dbunit.sourceforge.net) extension of JUnit. an way to avoid problems that can occur when the test case corrupts the DB. DBUnit expo and impo DB to and from XML dates. Can help to verify data from DB = expected set of values  
