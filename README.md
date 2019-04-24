@@ -13,7 +13,7 @@ If you search for [security stuff (CTF-centered)](https://bitbucket.org/theiosif
 * [Java 2](https://github.com/tiberiucorneanu/java2) Introduction to Java EE (enterprise edition)
 * [Java 3](https://github.com/tiberiucorneanu/java3) Introduction to Java WebPage
 ### What is + name ?
- * [Sprring Test](https://spring.io/guides/gs/testing-web/) Testing the Web Layer. This guide walks you through the process of creating a Spring application.  
+ * [Sprring Test](https://spring.io/guides/gs/testing-web/) Testing the Web Layer REST API. This guide walks you through the process of creating a Spring application.  
  * [JAX-RS vs Jersey](https://stackoverflow.com/questions/17888757/what-difference-between-jersey-vs-jax-rs)   
   ** JAX-RS is an specification and Jersey is a JAX-RS implementation.   
   ** This can be understood relating it to OOPS principles JAX-RS is an Interface and Jersey is a class implementing that interface.   
